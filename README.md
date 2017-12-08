@@ -10,5 +10,3 @@ List:
 // Source code
 printf("Hello world!\n");
 ```
-
-> Quote me!
